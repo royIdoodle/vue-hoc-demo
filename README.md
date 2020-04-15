@@ -13,3 +13,7 @@
  * `event` 事件
  
  * `slots` 插槽
+
+## 参考文章
+
+> * [探索Vue高阶组件](https://segmentfault.com/p/1210000012743259/read)
